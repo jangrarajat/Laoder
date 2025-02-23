@@ -1,4 +1,4 @@
-#git codes 
+                #git codes#
 {git --version} = This code for  cahking git version
 
 *(git configer codes)
@@ -10,7 +10,9 @@
 {git status} = chaking any status 
 
 * chaning folder
-{ cd folder name } = change dractry. dractry menas folder
+{ cd folder name } = enter in  folders
+{cd .. } =  exit from folders
+{mkdir new folder name} = creating new folder
 
 *clear terminal
 { clear }
