@@ -18,3 +18,8 @@
 *list of files 
 { Ls } = chaking files 
 { Ls -a } = chaking all hiden files  
+
+*add & commit = computer to--> git hub
+{git add file name}
+{git commit  -m "some message"}
+{git push origin main}
