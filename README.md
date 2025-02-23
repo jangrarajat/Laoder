@@ -20,6 +20,6 @@
 { Ls -a } = chaking all hiden files  
 
 *add & commit = computer to--> git hub
-{git add file name}
+{git add file name}/{git add .}for all file adding
 {git commit  -m "some message"}
 {git push origin main}
