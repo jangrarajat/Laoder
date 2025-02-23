@@ -9,7 +9,7 @@
 {git clone <some link>} = clone project GitHub to -> computer(visual studio code)
 {git status} = chaking any status 
 
-* chaning folder
+* chaning folder 
 { cd folder name } = enter in  folders
 {cd .. } =  exit from folders
 {mkdir new folder name} = creating new folder
