@@ -1,4 +1,4 @@
-                #git codes#  i  love coding
+                #git codes# 
 {git --version} = This code for  cahking git version
 
 <!-- *(git configer codes) -->
