@@ -31,6 +31,6 @@
 {git remote add origin <link new repository>}
 {git remote -v} = to verify remote
 {git branch } = to check branch 
-{git -m main} = to rename branch 
+{git branch -m main} = to rename branch 
 {git push origin main} = computer to git hub
 
