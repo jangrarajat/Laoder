@@ -1,4 +1,5 @@
-                #git codes# 
+               *#git codes#* 
+<!-- chaking git version -->
 {git --version} = This code for  cahking git version
 
 <!-- *(git configer codes) -->
@@ -25,6 +26,8 @@
 {git add file name}/{git add .}for all file adding
 {git commit  -m "some message"}
 {git push origin main}
+             Github to computer 
+{ git pull origin main } = ( Github to computer new updates  content )
 
 <!-- *init Command* -->used  to create a new git repo
 {git init}  =  used  to create a new git repo
@@ -33,4 +36,25 @@
 {git branch } = to check branch 
 {git branch -m main} = to rename branch 
 {git push origin main} = computer to git hub
+ 
+
+ <!-- git branches -->
+ *Branch commands*
+{ git branch } = (to check branch )
+{ git branch -m main } = (to rename branch)
+{ git checkout <branch name>} = ( to navigate)
+{ git checkout -b <new branch name >} = ( to create new branch )
+{ git branch -d < branch name>} = ( to delete branch )
+
+ <!-- Branches  Margeing command -->
+Way 1 
+{ git diff < branch name >} = ( to compare commits, branches , files&more)
+{ git merge < branch name >} = (to merge 2 branches)
+Way 2
+Create  a Pull request  in github
+
+
+              
+
+
 
